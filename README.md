@@ -9,3 +9,6 @@ changed div class="header" to header
 changed div class="footer" to footer
 
 changed div on line 16 to nav
+
+added alt to images
+
